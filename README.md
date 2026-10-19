@@ -1,4 +1,12 @@
-# Introduction to GitHub
+# Click to 10
+
+A tiny browser game: click the button 10 times to win.
+
+## Run the game
+
+Open `index.html` in a web browser. No installation or build step is needed.
+
+---
 
 <img src="https://octodex.github.com/images/Professortocat_v2.png" align="right" height="200px" />
 
@@ -13,4 +21,3 @@ Remember, it's self-paced so feel free to take a break! ☕️
 ---
 
 &copy; 2025 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
-
